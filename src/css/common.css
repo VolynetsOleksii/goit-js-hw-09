@@ -16,3 +16,9 @@ img {
   display: block;
   max-width: 100%;
 }
+.timer {
+  display: flex;
+  color: blue;
+  gap: 40px;
+  font-size: 40px;
+}
